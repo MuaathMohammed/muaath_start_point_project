@@ -117,6 +117,7 @@ text
 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 🙏 Acknowledgments
 
     Flutter team for the amazing framework
@@ -125,4 +126,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
     Community for continuous improvements
 
-This starter template is maintained by Muaath Mohammed
+This starter template is maintained by Muaath Mohammed Japer -  Moj774418@gmail.com
