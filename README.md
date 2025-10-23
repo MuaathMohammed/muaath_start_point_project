@@ -64,20 +64,20 @@ Prerequisites
 Installation
 
     Clone the repository
+    bash | cmd
+
+    git clone https://github.com/MuaathMohammed/muaath_start_point_project.git
+    cd muaath_start_point_project
+    
+    Get dependencies
     bash
-
-git clone https://github.com/MuaathMohammed/muaath_start_point_project.git
-cd muaath_start_point_project
-
-Get dependencies
-bash
-
-flutter pub get
-
-Run the app
-bash
-
-flutter run
+    
+    flutter pub get
+    
+    Run the app
+    bash
+    
+    flutter run
 
 📁 Project Structure
 text
